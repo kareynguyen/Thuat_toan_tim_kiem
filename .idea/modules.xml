@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ascii/Ascii.iml" filepath="$PROJECT_DIR$/Ascii/Ascii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ascii1/Ascii1.iml" filepath="$PROJECT_DIR$/Ascii1/Ascii1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_with_recursion/Binary_with_recursion.iml" filepath="$PROJECT_DIR$/Binary_with_recursion/Binary_with_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_without_recursion/Binary_without_recursion.iml" filepath="$PROJECT_DIR$/Binary_without_recursion/Binary_without_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuat_toan_tim_kiem.iml" filepath="$PROJECT_DIR$/Thuat_toan_tim_kiem.iml" />
+    </modules>
+  </component>
+</project>
